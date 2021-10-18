@@ -7,6 +7,22 @@ Implementation used an unofficial (but popular) Implementation of the famous pap
 
 This demo is used only for educational perposes.
 
+## Results:
+
+
+https://user-images.githubusercontent.com/57376705/137780166-860e95f1-8b69-44c5-8728-24658a380752.mp4
+
+
+
+
+
+https://user-images.githubusercontent.com/57376705/137780154-dd4e6fe2-2251-4b52-a934-77deb14395d9.mp4
+
+
+https://user-images.githubusercontent.com/57376705/137780149-76a25897-7a32-430c-bc72-7118addaaf61.mp4
+
+
+
 ## References: 
 Implementation using the model from: https://github.com/CorentinJ/Real-Time-Voice-Cloning
 
